@@ -65,7 +65,8 @@ BOOM....
 
 2. What's confusing:  
 &emsp;-CPU fan too lazy to work  
-&emsp;-CPU-S report up to 3200 MHz turbo, but Intel Power gadget report no higher than 3000 MHz during CPU-S testing  
+&emsp;-CPU-S report up to 3200 MHz turbo, but Intel Power gadget report no higher than 3000 MHz during CPU-S testing. Cinebench R20 multicore runs at 2.80GHz, single core hits up to 2.97Ghz (Peak) and 2.87Ghz (steady)  
+&emsp;&emsp;```Cinebench R20 Multi-core:1126 Single-core:323    ```  
 &emsp;-Ocassionally, battery icon still shows as charging though AC adapter is unpluged  
 &emsp;-Boot with headphone jack plugged-in causes no audio output, you have to unplug (speaker working) then plug (headphone working now)
 
