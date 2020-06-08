@@ -24,7 +24,7 @@ Credit to [fengwenhua's repo](https://github.com/fengwenhua/dell-7559-hackintosh
 
 ### USB 3.0 Disk  
 1. Have a real mac, or   
-install VMware Workstation Pro & [Unlocker](https://github.com/DrDonk/unlocker), get a packed sierra/highsierra.**iso** on ~~some torrent site like piratebay~~, and set up a mac virtual machine on your Windows  
+install VMware Workstation Pro & [Auto-Unlocker](https://github.com/paolo-projects/auto-unlocker/releases), get a packed sierra/highsierra.**iso** on ~~some torrent site like piratebay~~, and set up a mac virtual machine on your Windows  
 2. Download Mojave 10.14.5 app on App Store (About 6 GB)  
 3. Format USB to MBR with EFI and HFS+ partitions  
 &emsp;&emsp;**(NOTE: Replace ```/dev/disk1``` with your actual USB disk number, refer to [RehabMan's Guide: Clover Legacy+MBR Install](https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093) )**  
